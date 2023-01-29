@@ -9,6 +9,7 @@
   "private": true,
   "license": "UNLICENSED",
   "dependencies": {
+    "ora": "^6.1.2"
   },
   "type": "module"
 }
